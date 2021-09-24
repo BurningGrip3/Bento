@@ -9,7 +9,7 @@
     /* Light theme  */
     --accent: #E39AD5;
     --bg: #ffffff;
-    --sbg: #3b4252;
+    --sbg: #ffffff;
     --fg: #000000;
 
     /* Image background  */
@@ -37,7 +37,7 @@
 .darktheme {
     --accent: #E39AD5;
     --bg: #ffffff;
-    --sbg: #2e3440;
+    --sbg: #ffffff;
     --fg: #000000;
     --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
 }
