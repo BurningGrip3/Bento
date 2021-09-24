@@ -1,4 +1,4 @@
-## Bento Nord
+## Bento Spark
 This is a fork of the Bento startpage, made by MiguelRAvilla, with a colorscheme based on my current setup.
 
 # How do I get it?
